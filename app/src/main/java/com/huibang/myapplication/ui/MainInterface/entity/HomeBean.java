@@ -9,6 +9,7 @@ package com.huibang.myapplication.ui.MainInterface.entity;
  * 描述：TODO
  */
 public class HomeBean {
+    //test
     String tv_cantingname;
 
     public String getTv_cantingname() {
