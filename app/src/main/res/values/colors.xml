@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tab_bottom_normal">#999999</color>
+    <color name="tab_bottom_selected">#46c01b</color>
+    <color name="tab_bottom_selected_red">#FFE70F1D</color>
+    <color name="github_color">#1E2327</color>
+    <color name="shenheise">#FF010910</color>
+    <color name="huise">#C7C6C3C3</color>
+    <color name="lvse">#89B6E9D0</color>
+    <color name="huiseziti1">#C7403D3D</color>
+    <color name="huiyuan">#C7FC9454</color>
+    <color name="colorBarText">#F0F5E5</color>
+    <color name="tans">#00000000</color>
+    <color name="juse">#D93C33</color>
+    <color name="tianlanse">#FF47A0DF</color>
+    <color name="baise">#FFFFFFFF</color>
+
+</resources>
