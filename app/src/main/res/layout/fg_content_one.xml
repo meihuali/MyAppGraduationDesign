@@ -104,5 +104,6 @@
                     android:textSize="9sp" />
             </LinearLayout>
         </LinearLayout>
-    </android.support.v7.widget.Toolbar>
+    </android.support.v7.widget.Toolbar
+        >
 </android.support.design.widget.CoordinatorLayout>

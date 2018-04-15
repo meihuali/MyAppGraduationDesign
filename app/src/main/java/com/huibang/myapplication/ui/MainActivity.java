@@ -27,8 +27,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     private CategoryTwoFragment categoryTwoFragment;
     private ServiceTwoFragment serviceTwoFragment;
 
-
-
     @Override
     protected int setLayoutId() {
         return R.layout.activity_main;
